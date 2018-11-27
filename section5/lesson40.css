@@ -27,3 +27,27 @@
   margin: 10px;
   padding: 20px;
 }
+
+/* Challenge 2 */
+
+.pink {
+  background: #d22780;
+  padding: 20px;
+}
+
+.sand {
+  background: #f8b500;
+  border: solid 10px black;
+  color: white;
+  margin-left: 240px;
+  padding: 20px;
+}
+
+.purple {
+  background: #5e227f;
+  border: solid 10px black;
+  color: white;
+  /* margin: 10px; */
+  margin-left: 500px;
+  padding: 20px;
+}
