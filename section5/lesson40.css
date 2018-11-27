@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box-style {
+  height: 200px;
+  width: 200px;
+}
+
+.yellow {
+  background: yellow;
+  padding: 20px;
+}
+
+.red {
+  background: red;
+  border: solid 10px black;
+  color: white;
+  padding: 20px;
+}
+
+.blue {
+  background: blue;
+  border: solid 10px black;
+  color: white;
+  margin: 10px;
+  padding: 20px;
+}
